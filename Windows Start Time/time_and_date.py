@@ -2,7 +2,8 @@ from pathlib import Path
 import time, os, subprocess
 from datetime import datetime
 
-def try_to_push(commit_message, count):
+def try_to_push(commit_message, can_try):
+    print('try to push...')
     try:
         subprocess.run(['git', 'add', '.'], check=True)
         subprocess.run(['git', 'commit', '-m', commit_message], check=True)
@@ -10,6 +11,9 @@ def try_to_push(commit_message, count):
         print(f"Changes pushed to the remote repository. {count}")
     except subprocess.CalledProcessError as e:
         print(f"Error occurred during git operation: {e}")
+        time.sleep(3)
+        if can_try:
+            try_to_push(commit_message, 0)
     except Exception as e:
         print(f"An error occurred: {e}")
     
@@ -19,7 +23,7 @@ def prepare_for_git_push(file_name):
     time.sleep(3)
     commit_message = f'Update WIN_Start_Time: {file_name}'
     print(commit_message)
-    try_to_push(commit_message, 0)
+    try_to_push(commit_message, 1)
     pass 
 
 def create_file(current_time, folder_name, file_name):

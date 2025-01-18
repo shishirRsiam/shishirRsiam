@@ -8,22 +8,23 @@ def try_to_push(commit_message, can_try):
         subprocess.run(['git', 'add', '.'], check=True)
         subprocess.run(['git', 'commit', '-m', commit_message], check=True)
         subprocess.run(['git', 'push'], check=True)
-        print(f"Changes pushed to the remote repository. {count}")
+        can_try = 0
     except subprocess.CalledProcessError as e:
         print(f"Error occurred during git operation: {e}")
-        time.sleep(3)
-        if can_try:
-            try_to_push(commit_message, 0)
     except Exception as e:
         print(f"An error occurred: {e}")
+
+    time.sleep(3)
+    if can_try:
+        try_to_push(commit_message, False)
     
 
 def prepare_for_git_push(file_name):
     print('Pushing...')
     time.sleep(3)
     commit_message = f'Update WIN_Start_Time: {file_name}'
-    print(commit_message)
-    try_to_push(commit_message, 1)
+    print('commit_message ->', commit_message)
+    try_to_push(commit_message, True)
     pass 
 
 def create_file(current_time, folder_name, file_name):

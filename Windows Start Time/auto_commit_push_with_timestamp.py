@@ -7,19 +7,18 @@ def try_to_push(commit_message, can_try):
         subprocess.run(['git', 'add', '.'], check=True)
         subprocess.run(['git', 'commit', '-m', commit_message], check=True)
         subprocess.run(['git', 'push'], check=True)
-        can_try = 0
+        can_try = False
     except subprocess.CalledProcessError as e:
         print(f"Error occurred during git operation: {e}")
     except Exception as e:
         print(f"An error occurred: {e}")
 
-    time.sleep(3)
     if can_try:
+        time.sleep(60 * 2)  # Wait for 2 minutes
         try_to_push(commit_message, False)
     
 
 def prepare_for_git_push(file_name):
-    time.sleep(3)
     commit_message = f'Update WIN_Start_Time: {file_name}'
     try_to_push(commit_message, True)
 

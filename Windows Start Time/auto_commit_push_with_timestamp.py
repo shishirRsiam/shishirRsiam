@@ -3,7 +3,6 @@ import time, os, subprocess
 from datetime import datetime
 
 def try_to_push(commit_message, can_try):
-    print('try to push...')
     try:
         subprocess.run(['git', 'add', '.'], check=True)
         subprocess.run(['git', 'commit', '-m', commit_message], check=True)
@@ -20,12 +19,10 @@ def try_to_push(commit_message, can_try):
     
 
 def prepare_for_git_push(file_name):
-    print('Pushing...')
     time.sleep(3)
     commit_message = f'Update WIN_Start_Time: {file_name}'
-    print('commit_message ->', commit_message)
     try_to_push(commit_message, True)
-    pass 
+
 
 def create_file(current_time, folder_name, file_name):
     Path(folder_name).mkdir(exist_ok=True)

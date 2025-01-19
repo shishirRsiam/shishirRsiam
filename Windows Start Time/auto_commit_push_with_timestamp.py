@@ -7,7 +7,7 @@ def try_to_push(commit_message, retry_flag):
         subprocess.run(['git', 'add', '.'], check=True) 
         subprocess.run(['git', 'commit', '-am', commit_message], check=True)
         subprocess.run(['git', 'push'], check=True)
-        retry_flag = False
+        return True
     except subprocess.CalledProcessError as e:
         print(f"Error occurred during git operation: {e}")
     except Exception as e:
@@ -20,7 +20,7 @@ def try_to_push(commit_message, retry_flag):
 
 def prepare_for_git_push(file_name):
     commit_message = f'Update Windows Start Time: {file_name}'
-    try_to_push(commit_message, True)
+    return try_to_push(commit_message, True)
 
 
 def create_file(current_time, folder_name, file_name):
@@ -54,4 +54,7 @@ def process():
 
 if __name__ == "__main__":
     file_name = process()
+
+    # Wait for 1 minute to ensure the system starts working correctly.
+    # time.sleep(60 * 1)  
     prepare_for_git_push(file_name)

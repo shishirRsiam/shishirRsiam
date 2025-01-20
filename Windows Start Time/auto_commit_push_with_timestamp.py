@@ -53,8 +53,5 @@ def process():
 
 
 if __name__ == "__main__":
-    file_name = process()
-
-    # Wait for 1 minute to ensure the system starts working correctly.
-    time.sleep(60 * 1)  
+    file_name = process() 
     prepare_for_git_push(file_name)

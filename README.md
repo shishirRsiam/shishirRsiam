@@ -19,8 +19,6 @@
   - **Database**: MySQL, PostgreSQL 
   - **Other**: Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP)
 
-Here’s an updated version reflecting what you already know:
-
 🌱 **I’m proficient in:**
   - **Django**: Building full-stack web applications, specializing in back-end development with Django.
   - **Odoo Development**: Developing custom modules and integrating advanced solutions for optimizing business processes in enterprise-level systems.

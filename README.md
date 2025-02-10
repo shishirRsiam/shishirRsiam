@@ -13,7 +13,7 @@
   - [Naukri x CodingNinjas](https://www.naukri.com/code360/profile/shishirRsiam)
   
   
-- 🧑‍💻 Technologies I know:
+- 🧑‍💻 **Technologies I know:**
   - **Languages**: C, C++, Python, JavaScript, SQL
   - **Web Development**: HTML, CSS
   - **Database**: MySQL, PostgreSQL 
@@ -24,17 +24,17 @@
   - **Odoo Development**: Developing custom modules and integrating advanced solutions for optimizing business processes in enterprise-level systems.
   - **Web Development**: Creating dynamic user experiences using modern front-end frameworks like React and Vue.js.
 
-- 💞️ I’m looking to collaborate on:
+- 💞️ I’m **looking to collaborate** on:
   - **Open-source projects** in Python and Django or Odoo.
   - Building **API-driven applications** and contributing to scalable solutions.
   - Participating in **hackathons** and **coding challenges** to solve real-world problems.
 
-- 📚 Beyond coding, I’m also interested in:
+- 📚 Beyond coding, I’m also **interested in**:
   - **AI/ML**: Exploring machine learning techniques and how they can be applied to problem-solving.
   - **Cybersecurity**: Learning about security protocols, ethical hacking, and how to protect systems from vulnerabilities and cyber threats.
   - **Database Optimization**: Working on improving database queries, performance tuning, and utilizing tools like PostgreSQL and MySQL.
 
-- 📫 How to reach me:
+- 📫 How to **reach me**:
   - Email: [shishir.siam01@gmail.com](shishir.siam01@gmail.com)
   - Connect on [LinkedIn](https://www.linkedin.com/in/shishirrsiam), [Facebook](https://www.facebook.com/shishirRsiam) and [X - formerly Twitter](https://x.com/shishirRsiam).
   - Explore my coding journey on: [LeetCode](https://leetcode.com/u/shishirRsiam), [Codeforces](https://codeforces.com/profile/shishirRsiam), [HackerRank](https://www.hackerrank.com/shishirRsiam), [CodeChef](https://www.codechef.com/users/shishirrsiam), [Atcoder](https://atcoder.jp/users/shishirRsiam), [CSES](https://cses.fi/user/223987) and [Naukri x CodingNinjas](https://www.naukri.com/code360/profile/shishirRsiam)

@@ -5,7 +5,7 @@
 
 - 👀 I’m a dedicated about **problem-solving** with a strong interest in **software development** and always eager to learn the latest technologies. I love tackling challenging problems and turning complex ideas into practical, real-world solutions.
 
-- 💻 **In the past 1.5 Year**, I’ve solved over **1650 problems across different online judges**, with **1020+ problems on LeetCode** and **400+ problems on Codeforces**. Feel free to explore my profiles:
+- 💻 **In the past 1.5 year**, I’ve solved over **1650 problems across different online judges**, with **1020+ problems on LeetCode** and **400+ problems on Codeforces**. Feel free to explore my profiles:
   - [LeetCode](https://leetcode.com/u/shishirRsiam)
   - [Codeforces](https://codeforces.com/profile/shishirRsiam)
   - [HackerRank](https://www.hackerrank.com/shishirRsiam)

@@ -5,30 +5,26 @@
 
 - 👀 I’m a dedicated about **problem-solving** with a strong interest in **software development** and always eager to learn the latest technologies. I love tackling challenging problems and turning complex ideas into practical, real-world solutions.
 
-- 💻 **In 1 Year**, I’ve solved over **1500 problems across various online judges**, including nearly **900 on LeetCode**, over **400 on Codeforces**. Check out my profiles:
+- 💻 **In 1 Year**, I’ve solved over **1650 problems across various online judges**, over **1020 on LeetCode**, over **400 on Codeforces**. Check out my profiles:
   - [LeetCode](https://leetcode.com/u/shishirRsiam)
   - [Codeforces](https://codeforces.com/profile/shishirRsiam)
   - [HackerRank](https://www.hackerrank.com/shishirRsiam)
   - [CodeChef](https://www.codechef.com/users/shishirrsiam)
   - [Naukri x CodingNinjas](https://www.naukri.com/code360/profile/shishirRsiam)
   
-  <!-- - [Naukri]() -->
-
   
 - 🧑‍💻 Technologies I know:
-  - **Languages**: C, C++, Python, JavaScript
+  - **Languages**: C, C++, Python, JavaScript, SQL
   - **Web Development**: HTML, CSS
   - **Database**: MySQL, PostgreSQL 
   - **Other**: Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP)
 
-- 🌱 I’m currently learning:
-  - **Django**: Building full-stack web applications with a focus on back-end development.
-  - **Python OOP**: Enhancing my skills in designing clean, maintainable code using object-oriented principles.
-  - **Odoo Development**: Developing custom modules to optimize business processes and working on advanced Odoo integrations for enterprise-level solutions.
-  <!-- - **Web Development**: Exploring modern front-end frameworks like React and Vue.js to create dynamic user experiences. -->
+Here’s an updated version reflecting what you already know:
 
-
-
+🌱 **I’m proficient in:**
+  - **Django**: Building full-stack web applications, specializing in back-end development with Django.
+  - **Odoo Development**: Developing custom modules and integrating advanced solutions for optimizing business processes in enterprise-level systems.
+  - **Web Development**: Creating dynamic user experiences using modern front-end frameworks like React and Vue.js.
 
 - 💞️ I’m looking to collaborate on:
   - **Open-source projects** in Python and Django or Odoo.

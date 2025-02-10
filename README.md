@@ -5,7 +5,7 @@
 
 - 👀 I’m a dedicated about **problem-solving** with a strong interest in **software development** and always eager to learn the latest technologies. I love tackling challenging problems and turning complex ideas into practical, real-world solutions.
 
-- 💻 **In 1 Year**, I’ve solved over **1650 problems across various online judges**, over **1020 on LeetCode**, over **400 on Codeforces**. Check out my profiles:
+- 💻 **In the past 1.5 Year**, I’ve solved over **1650 problems across different online judges**, with **1020+ problems on LeetCode** and **400+ problems on Codeforces**. Feel free to explore my profiles:
   - [LeetCode](https://leetcode.com/u/shishirRsiam)
   - [Codeforces](https://codeforces.com/profile/shishirRsiam)
   - [HackerRank](https://www.hackerrank.com/shishirRsiam)
@@ -24,15 +24,18 @@
   - **Odoo Development**: Developing custom modules and integrating advanced solutions for optimizing business processes in enterprise-level systems.
   - **Web Development**: Creating dynamic user experiences using modern front-end frameworks like React and Vue.js.
 
-- 💞️ I’m **looking to collaborate** on:
-  - **Open-source projects** in Python and Django or Odoo.
-  - Building **API-driven applications** and contributing to scalable solutions.
-  - Participating in **hackathons** and **coding challenges** to solve real-world problems.
 
 - 📚 Beyond coding, I’m also **interested in**:
   - **AI/ML**: Exploring machine learning techniques and how they can be applied to problem-solving.
   - **Cybersecurity**: Learning about security protocols, ethical hacking, and how to protect systems from vulnerabilities and cyber threats.
   - **Database Optimization**: Working on improving database queries, performance tuning, and utilizing tools like PostgreSQL and MySQL.
+
+
+- 💞️ I’m **looking to collaborate** on:
+  - **Open-source projects** in Python and Django or Odoo.
+  - Building **API-driven applications** and contributing to scalable solutions.
+  - Participating in **hackathons** and **coding challenges** to solve real-world problems.
+
 
 - 📫 How to **reach me**:
   - Email: [shishir.siam01@gmail.com](shishir.siam01@gmail.com)
@@ -51,8 +54,8 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shishirRsiam&theme=gruvbox&hide_border=false)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shishirRsiam&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shishirRsiam&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 <!-- <div align="center" style="display: flex; flex-direction: row; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shishirrsiam&show_icons=true&locale=en&layout=compact" alt="shishirrsiam" />

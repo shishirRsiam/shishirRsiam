@@ -5,7 +5,7 @@
 
 - 👀 I’m a dedicated about **problem-solving** with a strong interest in **software development** and always eager to learn the latest technologies. I love tackling challenging problems and turning complex ideas into practical, real-world solutions.
 
-- 💻 **In the past 1.5 year**, I’ve solved over **1650 problems across different online judges**, with **1020+ problems on LeetCode** and **400+ problems on Codeforces**. Feel free to explore my profiles:
+- 💻 **In the past 1.5 year**, I’ve solved over **1700 problems across different online judges**, with **1100+ problems on LeetCode** and **400+ problems on Codeforces**. Feel free to explore my profiles:
   - [LeetCode](https://leetcode.com/u/shishirRsiam)
   - [Codeforces](https://codeforces.com/profile/shishirRsiam)
   - [HackerRank](https://www.hackerrank.com/shishirRsiam)
@@ -17,12 +17,18 @@
   - **Languages**: C, C++, Python, JavaScript, SQL
   - **Web Development**: HTML, CSS
   - **Database**: MySQL, PostgreSQL 
+  - **Cloud**: **AWS** (EC2, S3, Lambda)
+  - **Containerization**: **Docker**
+  - **Version Control**: **Git**, **GitHub**
   - **Other**: Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP)
 
-- 🌱 **I’m proficient in:**
-  - **Django**: Building full-stack web applications, specializing in back-end development with Django.
-  - **Odoo Development**: Developing custom modules and integrating advanced solutions for optimizing business processes in enterprise-level systems.
-  - **Web Development**: Creating dynamic user experiences using modern front-end frameworks like React and Vue.js.
+- 🌱 **My areas of expertise include:**
+  - **Django Development**: Building robust full-stack web applications with a focus on back-end development using Django Rest Framework. I am adept at using Git for version control and GitHub for seamless collaboration within development teams.
+  - **Odoo Development**: Creating custom modules and implementing advanced solutions to optimize business processes in enterprise-level systems. My experience includes effective communication with stakeholders and collaborative development using Git.
+  - **Web Development**: Crafting dynamic and engaging user experiences with modern front-end frameworks like React and Vue.js. I value clear communication and effective teamwork in building web solutions.
+
+
+- 🗣️ **Communication and Collaboration:** I possess strong communication skills, enabling me to clearly articulate technical concepts and effectively collaborate with team members. I thrive in team environments, contributing actively to shared goals and providing constructive feedback.
 
 
 - 📚 Beyond coding, I’m also **interested in**:

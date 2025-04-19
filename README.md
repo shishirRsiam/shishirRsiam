@@ -17,9 +17,9 @@
   - **Languages**: C, C++, Python, JavaScript, SQL
   - **Web Development**: HTML, CSS
   - **Database**: MySQL, PostgreSQL 
-  - **Cloud**: **AWS** (EC2, S3, Lambda)
   - **Containerization**: **Docker**
   - **Version Control**: **Git**, **GitHub**
+  - **Cloud**: **AWS** (EC2, S3, Lambda)
   - **Other**: Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP)
 
 - 🌱 **My areas of expertise include:**
@@ -37,10 +37,10 @@
   - **Database Optimization**: Working on improving database queries, performance tuning, and utilizing tools like PostgreSQL and MySQL.
 
 
-- 💞️ I’m **looking to collaborate** on:
-  - **Open-source projects** in Python and Django or Odoo.
-  - Building **API-driven applications** and contributing to scalable solutions.
-  - Participating in **hackathons** and **coding challenges** to solve real-world problems.
+- 💞️ I'm **eager to collaborate** on:
+  - Open-source projects on **GitHub** in Python, Django, or Odoo, utilizing **Git** for effective contribution and clear communication within the community.
+  - Developing API-driven applications and contributing to scalable solutions, emphasizing teamwork and well-documented code.
+  - Participating in hackathons and coding challenges focused on web development and cloud technologies, where effective communication and collaboration are key to success. Feel free to reach out if you have interesting ideas!
 
 
 - 📫 How to **reach me**:

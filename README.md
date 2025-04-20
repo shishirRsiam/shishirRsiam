@@ -3,7 +3,7 @@
 
 # 👋 Hi, I’m Md. Sishir Rahman Siam (@shishirRsiam)
 
-- 👀 I’m a dedicated about **problem-solving** with a strong interest in **software development** and always eager to learn the latest technologies. I love tackling challenging problems and turning complex ideas into practical, real-world solutions.
+- I'm a passionate software developer who thrives on **problem-solving** and **continuous learning**. With a solid foundation in **DSA**, **OOP**, **Database Design**, and **System Design**, I enjoy transforming complex challenges into efficient, real-world solutions.
 
 - 💻 **In the past 1.5 year**, I’ve solved over **1700 problems across different online judges**, with **1100+ problems on LeetCode** and **400+ problems on Codeforces**. Feel free to explore my profiles:
   - [LeetCode](https://leetcode.com/u/shishirRsiam)
@@ -15,21 +15,21 @@
   
 - 🧑‍💻 **Technologies I know:**
   - **Languages**: C, C++, Python, JavaScript, SQL
-  - **Web Development**: HTML, CSS
-  - **Database**: MySQL, PostgreSQL 
-  - **Containerization**: **Docker**
-  - **Version Control**: **Git**, **GitHub**
-  - **Cloud**: **AWS** (EC2, S3, Lambda)
-  - **Other**: Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP)
+  - **Front-End**: React.js, HTML, CSS, JavaScript, Bootstrap, Tailwind  
+  - **Back-End**: Django, Django REST Framework, Odoo (Custom ERP modules)  
+  - **Database**: PostgreSQL, MySQL, SQLite
+  - **Messaging & Background Tasks**: Redis, Celery  
+  - **Cloud & DevOps**: Docker, AWS (EC2, S3, Lambda), Git, GitHub  
+  - **Competencies**: OOP, System Design, Data Structures and Algorithms (DSA), GitHub Actions, PostgreSQL Query Optimization & Tuning
 
-- 🌱 **My areas of expertise include:**
-  - **Django Development**: Building robust full-stack web applications with a focus on back-end development using Django Rest Framework. I am adept at using Git for version control and GitHub for seamless collaboration within development teams.
-  - **Odoo Development**: Creating custom modules and implementing advanced solutions to optimize business processes in enterprise-level systems. My experience includes effective communication with stakeholders and collaborative development using Git.
-  - **Web Development**: Crafting dynamic and engaging user experiences with modern front-end frameworks like React and Vue.js. I value clear communication and effective teamwork in building web solutions.
-
-
-- 🗣️ **Communication and Collaboration:** I possess strong communication skills, enabling me to clearly articulate technical concepts and effectively collaborate with team members. I thrive in team environments, contributing actively to shared goals and providing constructive feedback.
-
+- 🌱 **Areas of Expertise:**
+- **Backend Development**: Building RESTful APIs using Django & DRF, integrating with frontend frameworks, and ensuring robust data handling.
+- **Frontend Dev**: Building dynamic UIs using React & Vue, integrating APIs, Tailwind & Bootstrap styling.
+- **Odoo Development**: Custom modules, business automation, stakeholder collaboration.
+- **Data Structures & Algorithms**: Proficient in solving complex problems using DSA principles, with a focus on optimizing performance and efficiency.
+- **Version Control**: Git/GitHub for team collaboration & agile workflow.
+- **Containerization**: Using Docker for creating, deploying, and running applications in containers, ensuring consistency across different environments.
+- **Cloud Computing**: Deploying applications on AWS, utilizing services like EC2, S3, and Lambda for scalable solutions.
 
 - 📚 Beyond coding, I’m also **interested in**:
   - **AI/ML**: Exploring machine learning techniques and how they can be applied to problem-solving.
@@ -44,6 +44,7 @@
 
 
 - 📫 How to **reach me**:
+  - 📱 Phone/WhatsApp: +8801317-129349
   - Email: [shishir.siam01@gmail.com](shishir.siam01@gmail.com)
   - Connect on [LinkedIn](https://www.linkedin.com/in/shishirrsiam), [Facebook](https://www.facebook.com/shishirRsiam) and [X - formerly Twitter](https://x.com/shishirRsiam).
   - Explore my coding journey on: [LeetCode](https://leetcode.com/u/shishirRsiam), [Codeforces](https://codeforces.com/profile/shishirRsiam), [HackerRank](https://www.hackerrank.com/shishirRsiam), [CodeChef](https://www.codechef.com/users/shishirrsiam), [Atcoder](https://atcoder.jp/users/shishirRsiam), [CSES](https://cses.fi/user/223987) and [Naukri x CodingNinjas](https://www.naukri.com/code360/profile/shishirRsiam)
@@ -67,3 +68,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shishirrsiam&show_icons=true&locale=en&layout=compact" alt="shishirrsiam" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shishirrsiam&" alt="shishirrsiam" />
 </div> -->
+

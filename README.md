@@ -23,13 +23,13 @@
   - **Competencies**: OOP, System Design, Data Structures and Algorithms (DSA), GitHub Actions, PostgreSQL Query Optimization & Tuning
 
 - 🌱 **Areas of Expertise:**
-- **Backend Development**: Building RESTful APIs using Django & DRF, integrating with frontend frameworks, and ensuring robust data handling.
-- **Frontend Dev**: Building dynamic UIs using React & Vue, integrating APIs, Tailwind & Bootstrap styling.
-- **Odoo Development**: Custom modules, business automation, stakeholder collaboration.
-- **Data Structures & Algorithms**: Proficient in solving complex problems using DSA principles, with a focus on optimizing performance and efficiency.
-- **Version Control**: Git/GitHub for team collaboration & agile workflow.
-- **Containerization**: Using Docker for creating, deploying, and running applications in containers, ensuring consistency across different environments.
-- **Cloud Computing**: Deploying applications on AWS, utilizing services like EC2, S3, and Lambda for scalable solutions.
+  - **Backend Development**: Building RESTful APIs using Django & DRF, integrating with frontend frameworks, and ensuring robust data handling.
+  - **Frontend Dev**: Building dynamic UIs using React & Vue, integrating APIs, Tailwind & Bootstrap styling.
+  - **Odoo Development**: Custom modules, business automation, stakeholder collaboration.
+  - **Data Structures & Algorithms**: Proficient in solving complex problems using DSA principles, with a focus on optimizing performance and efficiency.
+  - **Version Control**: Git/GitHub for team collaboration & agile workflow.
+  - **Containerization**: Using Docker for creating, deploying, and running applications in containers, ensuring consistency across different environments.
+  - **Cloud Computing**: Deploying applications on AWS, utilizing services like EC2, S3, and Lambda for scalable solutions.
 
 - 📚 Beyond coding, I’m also **interested in**:
   - **AI/ML**: Exploring machine learning techniques and how they can be applied to problem-solving.

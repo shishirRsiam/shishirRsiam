@@ -23,8 +23,8 @@
   - **Competencies**: OOP, System Design, Data Structures and Algorithms (DSA), GitHub Actions, PostgreSQL Query Optimization & Tuning
 
 - 🌱 **Areas of Expertise:**
-  - **Backend Development**: Building RESTful APIs using Django & DRF, integrating with frontend frameworks, and ensuring robust data handling.
   - **Frontend Dev**: Building dynamic UIs using React & Vue, integrating APIs, Tailwind & Bootstrap styling.
+  - **Backend Development**: Building RESTful APIs using Django & DRF, integrating with frontend frameworks, and ensuring robust data handling.
   - **Odoo Development**: Custom modules, business automation, stakeholder collaboration.
   - **Data Structures & Algorithms**: Proficient in solving complex problems using DSA principles, with a focus on optimizing performance and efficiency.
   - **Version Control**: Git/GitHub for team collaboration & agile workflow.

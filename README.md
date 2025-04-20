@@ -44,8 +44,8 @@
 
 
 - 📫 How to **reach me**:
-  - 📱 Phone/WhatsApp: +8801317-129349
   - Email: [shishir.siam01@gmail.com](shishir.siam01@gmail.com)
+  - Phone/WhatsApp: +8801317-129349
   - Connect on [LinkedIn](https://www.linkedin.com/in/shishirrsiam), [Facebook](https://www.facebook.com/shishirRsiam) and [X - formerly Twitter](https://x.com/shishirRsiam).
   - Explore my coding journey on: [LeetCode](https://leetcode.com/u/shishirRsiam), [Codeforces](https://codeforces.com/profile/shishirRsiam), [HackerRank](https://www.hackerrank.com/shishirRsiam), [CodeChef](https://www.codechef.com/users/shishirrsiam), [Atcoder](https://atcoder.jp/users/shishirRsiam), [CSES](https://cses.fi/user/223987) and [Naukri x CodingNinjas](https://www.naukri.com/code360/profile/shishirRsiam)
   

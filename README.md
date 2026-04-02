@@ -5,7 +5,7 @@
 
 - I'm a passionate software developer who thrives on **problem-solving** and **continuous learning**. With a solid foundation in **DSA**, **OOP**, **Database Design**, and **System Design**, I enjoy transforming complex challenges into efficient, real-world solutions.
 
-- 💻 **In the past 1.5 year**, I’ve solved over **1700 problems across different online judges**, with **1100+ problems on LeetCode** and **400+ problems on Codeforces**. Feel free to explore my profiles:
+- 💻 **In the past 2.5 year**, I’ve solved over **1950 problems across different online judges**, with **1350+ problems on LeetCode** and **400+ problems on Codeforces**. Feel free to explore my profiles:
   - [LeetCode](https://leetcode.com/u/shishirRsiam)
   - [Codeforces](https://codeforces.com/profile/shishirRsiam)
   - [HackerRank](https://www.hackerrank.com/shishirRsiam)
